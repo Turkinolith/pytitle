@@ -4,7 +4,7 @@ Unfortunately, over time it became cumbersome to do this. So, why not apply some
 This is a very simple command line app built in python that takes an arbitrary string, brackets it, and then copies the result into 
 the clipboard for use in whatever text editor you wish.
 
-
+![Pytitle cli](https://github.com/Turkinolith/pytitle/blob/master/pytitle.JPG)
 
 Requirements:
 Python 3.8
