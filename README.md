@@ -6,6 +6,13 @@ the clipboard for use in whatever text editor you wish.
 
 ![Pytitle cli](https://github.com/Turkinolith/pytitle/blob/master/pytitle.JPG)
 
+Example output:
+
+*********************
+**** Sample Text ****
+*********************
+
+
 Requirements:
 Python 3.8
 pyperclip module for Python
